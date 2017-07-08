@@ -1,7 +1,7 @@
 ##客户管理系统
 
 ##项目介绍
-本项目使用Jsp+Servlet+MySQL实现
+- 本项目使用Jsp+Servlet+MySQL实现
 
 ##功能介绍
 
