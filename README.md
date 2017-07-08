@@ -1,6 +1,7 @@
 ##客户管理系统
 
 ##项目介绍
+
 - 本项目使用Jsp+Servlet+MySQL实现
 
 ##功能介绍
@@ -24,6 +25,9 @@
 ##文件结构
 - IDEA工程文件
 - Mysql建表语句
+
+更多项目具体介绍请参见我的博客：http://www.cnblogs.com/bywallance/p/7138424.html
+欢迎留言交流，email联系：bywallance@163.com
 
 
 
